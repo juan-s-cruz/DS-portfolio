@@ -1,4 +1,4 @@
-#  Personal portfolio in my road to Data-science
+#  Personal portfolio of my journey in Data Science
 Repository for my solutions, extensions and their reviews inspired in the course from codeCademy.
 
 Each folder contains a Jupyter Notebook with the suggested project: the necessary data and my personal solutions.
